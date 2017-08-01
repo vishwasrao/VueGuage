@@ -22,7 +22,7 @@ $ npm -v
 git clone https://github.com/vishwasrao/VueGuage.git
 
 # Go tot project directory 
-cd  <projectDirectory>
+$ cd  <projectDirectory>
 
 # install dependencies
 npm install
@@ -37,4 +37,3 @@ npm run build
 npm run build --report
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/).
